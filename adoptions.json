@@ -1,0 +1,142 @@
+[
+  {
+    "AdoptionID": 1,
+    "BookID": 1003,
+    "UniversityID": 100751,
+    "AdoptionDate": "2015-08-14",
+    "Quantity": 37
+  },
+  {
+    "AdoptionID": 2,
+    "BookID": 1006,
+    "UniversityID": 100858,
+    "AdoptionDate": "2015-03-27",
+    "Quantity": 54
+  },
+  {
+    "AdoptionID": 3,
+    "BookID": 1009,
+    "UniversityID": 101912,
+    "AdoptionDate": "2015-10-13",
+    "Quantity": 71
+  },
+  {
+    "AdoptionID": 4,
+    "BookID": 1012,
+    "UniversityID": 100724,
+    "AdoptionDate": "2015-05-26",
+    "Quantity": 88
+  },
+  {
+    "AdoptionID": 5,
+    "BookID": 1015,
+    "UniversityID": 100751,
+    "AdoptionDate": "2015-12-12",
+    "Quantity": 25
+  },
+  {
+    "AdoptionID": 6,
+    "BookID": 1018,
+    "UniversityID": 100858,
+    "AdoptionDate": "2015-07-25",
+    "Quantity": 42
+  },
+  {
+    "AdoptionID": 7,
+    "BookID": 1021,
+    "UniversityID": 101912,
+    "AdoptionDate": "2015-02-11",
+    "Quantity": 59
+  },
+  {
+    "AdoptionID": 8,
+    "BookID": 1024,
+    "UniversityID": 100724,
+    "AdoptionDate": "2015-09-24",
+    "Quantity": 76
+  },
+  {
+    "AdoptionID": 9,
+    "BookID": 1027,
+    "UniversityID": 100751,
+    "AdoptionDate": "2015-04-10",
+    "Quantity": 93
+  },
+  {
+    "AdoptionID": 10,
+    "BookID": 1030,
+    "UniversityID": 100858,
+    "AdoptionDate": "2015-11-23",
+    "Quantity": 30
+  },
+  {
+    "AdoptionID": 11,
+    "BookID": 1033,
+    "UniversityID": 101912,
+    "AdoptionDate": "2015-06-09",
+    "Quantity": 47
+  },
+  {
+    "AdoptionID": 12,
+    "BookID": 1036,
+    "UniversityID": 100724,
+    "AdoptionDate": "2015-01-22",
+    "Quantity": 64
+  },
+  {
+    "AdoptionID": 13,
+    "BookID": 1039,
+    "UniversityID": 100751,
+    "AdoptionDate": "2015-08-08",
+    "Quantity": 81
+  },
+  {
+    "AdoptionID": 14,
+    "BookID": 1042,
+    "UniversityID": 100858,
+    "AdoptionDate": "2015-03-21",
+    "Quantity": 98
+  },
+  {
+    "AdoptionID": 15,
+    "BookID": 1045,
+    "UniversityID": 101912,
+    "AdoptionDate": "2015-10-07",
+    "Quantity": 35
+  },
+  {
+    "AdoptionID": 16,
+    "BookID": 1048,
+    "UniversityID": 100724,
+    "AdoptionDate": "2015-05-20",
+    "Quantity": 52
+  },
+  {
+    "AdoptionID": 17,
+    "BookID": 1051,
+    "UniversityID": 100751,
+    "AdoptionDate": "2015-12-06",
+    "Quantity": 69
+  },
+  {
+    "AdoptionID": 18,
+    "BookID": 1054,
+    "UniversityID": 100858,
+    "AdoptionDate": "2015-07-19",
+    "Quantity": 86
+  },
+  {
+    "AdoptionID": 19,
+    "BookID": 1057,
+    "UniversityID": 101912,
+    "AdoptionDate": "2015-02-05",
+    "Quantity": 23
+  },
+  {
+    "AdoptionID": 20,
+    "BookID": 1060,
+    "UniversityID": 100724,
+    "AdoptionDate": "2015-09-18",
+    "Quantity": 40
+  }
+]
